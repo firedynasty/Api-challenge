@@ -20,6 +20,4 @@ The graphs with correlation are shown below (between latitude and temperature):
 
 It should be noted that there is stronger correlation between the cities in the Northern Hemisphere vs. the Souther Hemisphere (0.71 vs 0.46)
 
-![Image of Northern_hemisphere](https://github.com/firedynasty/python-api-challenge/blob/master/Images/Northern_hemisphere.png)
-
-![Image of Southern_hemisphere](https://github.com/firedynasty/python-api-challenge/blob/master/Images/Southern_hemisphere.png)
+![Image of Northern_and_Southern](https://github.com/firedynasty/python-api-challenge/blob/master/Images/north_and_south_hemisphere.png)
