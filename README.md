@@ -26,11 +26,11 @@ It should be noted that there is stronger correlation between the cities in the 
 ## VacationPy Challenge
 
 
-The city that has the ideal temperature today was Portland, between 70 and 80, with slow windspeed, and clear skies.  It would be nice when everything returns to normal to take a trip and visit.  Portland's Travel site offers "The city’s arts offerings come into full swing every fall, with a seemingly endless array of things to do, see and experience."
+One city with ideal temperature today, Sept 30, 2020, was Portland, between 70 and 80, with slow windspeed, and clear skies.  It would be nice when everything returns to normal to take a trip and visit.  Portland's Travel site offers "The city’s arts offerings come into full swing every fall, with a seemingly endless array of things to do, see and experience."
 
 From the city dataset that was generated from `WeatherPy` Challenge, it was used to generate a heatmap using Gmaps to show the relative humidity throughout the world.  The green spots were the least humid with a few points across the Saharan Desert (probably small towns that returned by library Citipy).  
 
-The cities with the best temperatures were plotted on top of the heatmap, and it doesn't look like there is much correlation between them except that they look to be somewhat equally spaced from the equator in distance.
+The cities with the ideal temperatures were plotted on top of the heatmap, and it doesn't look like there is much correlation between them except that they look to be somewhat equally spaced from the equator in distance.
 
 ![Image of HeatMap](https://github.com/firedynasty/Api-challenge/blob/master/Images/citipy_heatmap.png)
 
