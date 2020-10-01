@@ -32,5 +32,7 @@ From the city dataset that was generated from `WeatherPy` Challenge, it was used
 
 The cities with the best temperatures were plotted on top of the heatmap, and it doesn't look like there is much correlation between them except that they look to be somewhat equally spaced from the equator in distance.
 
-![Image of HeatMap]()
+![Image of HeatMap](https://github.com/firedynasty/Api-challenge/blob/master/Images/citipy_heatmap.png)
+
+![Image of HeatMap_withLocations](https://github.com/firedynasty/Api-challenge/blob/master/Images/withlocation.png)
 
